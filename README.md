@@ -1,6 +1,5 @@
 # sharks-from-python-Turtle
 
-
 from turtle import Turtle
 
 # Dictionary with shark attributes. Each "body_part" is a list with:
